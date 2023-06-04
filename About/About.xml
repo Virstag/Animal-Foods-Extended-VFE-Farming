@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Animal Foods Extended + VFE - Farming</name>
+  <author>Virstag</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>VanillaExpanded.VFEFarming</packageId>
+      <displayName>Vanilla Furniture Expanded - Farming</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1957158779</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>TheVillain.Animalfoodsextended</packageId>
+      <displayName>Animal Foods Extended</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2971675296</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>  
+  <li>VanillaExpanded.VFEFarming</li>
+  <li>TheVillain.Animalfoodsextended</li>
+  </loadAfter>
+  <packageId>Virstag.AFEwVFEF</packageId>
+  <description>This little mod integrates Animal Food Extended with Vanilla Furniture Expanded - Farming, placing animal food in the Farming Techniques research category.</description>
+
+</ModMetaData>
